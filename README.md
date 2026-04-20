@@ -13,4 +13,4 @@ This is my personal portfolio website built using HTML, CSS, JavaScript and Boot
 HTML, CSS, JavaScript, Bootstrap
 
 ## Live Demo
-https://github.com/janaki-tech/janaki-portfolio
+https://jkportfolio123.netlify.app/
